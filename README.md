@@ -1,6 +1,6 @@
-# grunt-msbuild
+# lacuna-grunt-msbuild
 
-Build projects with MSBuild and XBuild using Grunt
+Lacuna Software's fork of the [grunt-msbuild](https://github.com/stevewillcock/grunt-msbuild) Grunt task
 
 ## Getting Started
 This plugin requires Grunt `~0.4.0`. In other words it should work on 0.4.0 or higher.

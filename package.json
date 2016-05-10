@@ -1,6 +1,6 @@
 {
-  "name": "grunt-msbuild",
-  "version": "0.3.6",
+  "name": "lacuna-grunt-msbuild",
+  "version": "0.4.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/stevewillcock/grunt-msbuild.git"
+    "url": "git://github.com/LacunaSoftware/grunt-msbuild.git"
   },
   "keywords": [
     "gruntplugin",
     "msbuild"
   ],
-  "author": "Steve Willcock",
+  "author": "Steve Willcock, Lacuna Software",
   "license": "BSD",
   "dependencies": {
     "async": "~0.2.9"
